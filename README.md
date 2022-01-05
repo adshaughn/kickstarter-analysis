@@ -28,7 +28,7 @@ Overall, theater Kickstarter campaigns are most successful when launching in May
 
 - What can you conclude about the Outcomes based on Goals?
 
-While it may be tempting to assume that the higher the goal the less successful the campaign, this is not correct. The data show XXX
+While it may be tempting to assume that the higher the goal the less successful the campaign, this is not correct. The data show that while campaigns with goals under $5000 do show a high (>70%) rate of success, projects in the $35000-$45000 bracket also show high levels of successful funding.
 
 The quantity of projects should also be noted, however, with 186 projects in the lowest (<$1000) bracket, and only 6 in the $35000-39999 bracket.
 
@@ -38,6 +38,6 @@ One benefit of backing a project on Kickstarter is the ability to receive perks 
 
 - What are some other possible tables and/or graphs that we could create?
 
-This analysis focuses on the success/failure of theater campaigns on Kickstarter (and within that, musicals). XXX. Beyond this though, the primary dataset includes Kickstarters
+This analysis focuses on the success/failure of theater campaigns on Kickstarter (and within that, musicals). Beyond this though, the primary dataset includes Kickstarters from a variety of categories. It would be useful to compare campaigns by category, to see if there are other categories that are generally more successful on the platform. Similarly, different catefories of campaigns may show greater levels of funding based on different launch months as compared with theater.
 
 
