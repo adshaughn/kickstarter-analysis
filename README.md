@@ -10,13 +10,13 @@ The client requested an analysis of musical theater Kickstarter campaigns from 2
 
 This analysis began by filtering the data to restrict to musical plays. In order to isolate these data, we first had to break apart the catergory/subcategory data provided in the original dataset. By focusing only on this category we can see the breakdown of campaign results based on launch date.
 
-![Theatre_Outcomes_vs_Launch](kickstarter-analysis/resources/theater_outcomes_vs_launch.png)
+![Theatre_Outcomes_vs_Launch](/resources/theater_outcomes_vs_launch.png)
 
 From this, we can determine that musical play campaigns show the highest rates of success in the early summer, and the lowest rates in the winter, as compared to the rate of failed campaigns.
 
 After providing additional data based on country information, we moved into an analysis of outcomes based on goals. From this, again filtering for plays, we see that there are two bands of high (>60%) success: goals set under $5000, and goals set between $35000 and $45000
 
-![Outcomes_vs_Goals](kickstarter-analysis/resources/outcomes_vs_goals.png)
+![Outcomes_vs_Goals](/resources/outcomes_vs_goals.png)
 
 > The data are clear: it is possible have a successful musical theater campaign on Kickstarter provided some criteria are met, mainly that the campaign launches in summer and that the goal is a reasonable one given the potential audience of the project.
 
